@@ -1,0 +1,15 @@
+# Environment files 
+.env 
+.env.* 
+# Virtual environments 
+env/ 
+.venv/ 
+# Python cache 
+__pycache__/ 
+*.pyc 
+# Logs and system files 
+*.log 
+.DS_Store 
+Thumbs.db 
+.vscode/ 
+.ipynb_checkpoints/ 

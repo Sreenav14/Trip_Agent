@@ -1,0 +1,15 @@
+dotenv>=0.9.9
+fastapi>=0.121.0
+googlemaps>=4.10.0
+langchain>=1.0.5
+langchain-community>=0.4.1
+langchain-google-community>=3.0.0
+langchain-groq>=1.0.0
+langchain-huggingface>=1.0.1
+langchain-openai>=1.0.2
+langchain-tavily>=0.2.13
+langgraph>=1.0.2
+pandas>=2.3.3
+pydantic>=2.12.4
+streamlit>=1.51.0
+tavily-python>=0.7.12
